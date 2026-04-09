@@ -1,0 +1,899 @@
+::CISA_D4V2_Q1 [Easy]::
+Tujuan utama IT operations adalah:
+{
+=Menjaga sistem berjalan stabil # Operasional harian
+~Menghapus sistem
+~Menambah user
+~Mengurangi data
+}
+
+::CISA_D4V2_Q2 [Medium]::
+Incident management bertujuan:
+{
+=Memulihkan layanan dengan cepat # Restore service
+~Menghapus sistem
+~Menambah sistem
+~Mengurangi sistem
+}
+
+::CISA_D4V2_Q3 [Hard]::
+Problem management fokus pada:
+{
+=Root cause analysis # Pencegahan
+~Fix sementara
+~Ignore
+~Random
+}
+
+::CISA_D4V2_Q4 [Easy]::
+Service desk adalah:
+{
+=Titik kontak user # Support
+~Server
+~Database
+~Network
+}
+
+::CISA_D4V2_Q5 [Medium]::
+Change management bertujuan:
+{
+=Mengontrol perubahan # Minim risiko
+~Menghapus perubahan
+~Menambah perubahan
+~Mengurangi perubahan
+}
+
+::CISA_D4V2_Q6 [Medium]::
+Release management berarti:
+{
+=Pengelolaan rilis # Deployment control
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q7 [Hard]::
+CMDB berisi:
+{
+=Data konfigurasi aset # Configuration item
+~Data user
+~Kode program
+~Audit report
+}
+
+::CISA_D4V2_Q8 [Easy]::
+Availability berarti:
+{
+=Ketersediaan sistem # Uptime
+~Integritas
+~Keamanan
+~Kecepatan
+}
+
+::CISA_D4V2_Q9 [Medium]::
+Capacity management:
+{
+=Menjamin kapasitas cukup # Performance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q10 [Hard]::
+Performance management:
+{
+=Optimasi performa # Monitoring
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q11 [Easy]::
+Backup bertujuan:
+{
+=Melindungi data # Recovery
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q12 [Medium]::
+Restore berarti:
+{
+=Mengembalikan data # Recovery
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q13 [Medium]::
+DRP adalah:
+{
+=Rencana pemulihan IT # Disaster recovery
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q14 [Hard]::
+BCP bertujuan:
+{
+=Menjaga bisnis berjalan # Continuity
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q15 [Easy]::
+RTO adalah:
+{
+=Waktu pemulihan target # Time
+~Data
+~User
+~Server
+}
+
+::CISA_D4V2_Q16 [Medium]::
+RPO adalah:
+{
+=Data yang boleh hilang # Point
+~User
+~Server
+~System
+}
+
+::CISA_D4V2_Q17 [Medium]::
+Hot site:
+{
+=Lokasi siap pakai # Immediate
+~Cold
+~Warm
+~Offline
+}
+
+::CISA_D4V2_Q18 [Hard]::
+Cold site:
+{
+=Lokasi kosong # Setup lama
+~Ready
+~Online
+~Active
+}
+
+::CISA_D4V2_Q19 [Easy]::
+Log monitoring:
+{
+=Memantau aktivitas # Detection
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q20 [Medium]::
+Job scheduling:
+{
+=Penjadwalan proses # Automation
+~Manual
+~Random
+~None
+}
+
+::CISA_D4V2_Q21 [Medium]::
+Batch processing:
+{
+=Pemrosesan massal # Scheduled
+~Real-time
+~Manual
+~Random
+}
+
+::CISA_D4V2_Q22 [Hard]::
+Real-time processing:
+{
+=Proses langsung # Immediate
+~Batch
+~Delayed
+~Manual
+}
+
+::CISA_D4V2_Q23 [Easy]::
+Patch management:
+{
+=Update sistem # Security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q24 [Medium]::
+System monitoring:
+{
+=Pengawasan sistem # Continuous
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q25 [Medium]::
+Alert system:
+{
+=Notifikasi masalah # Warning
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q26 [Hard]::
+Event management:
+{
+=Pengelolaan event # Monitoring
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q27 [Easy]::
+Downtime:
+{
+=Waktu sistem mati # Outage
+~Active
+~Online
+~Ready
+}
+
+::CISA_D4V2_Q28 [Medium]::
+Uptime:
+{
+=Waktu aktif sistem # Availability
+~Offline
+~Error
+~Failure
+}
+
+::CISA_D4V2_Q29 [Medium]::
+Failover:
+{
+=Perpindahan ke backup # Redundancy
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q30 [Hard]::
+Redundancy:
+{
+=Sistem cadangan # Reliability
+~Single
+~None
+~Manual
+}
+
+::CISA_D4V2_Q31 [Easy]::
+Load balancing:
+{
+=Membagi beban # Performance
+~Single
+~Heavy
+~None
+}
+
+::CISA_D4V2_Q32 [Medium]::
+Network monitoring:
+{
+=Monitoring jaringan # Performance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q33 [Medium]::
+Server management:
+{
+=Pengelolaan server # Operation
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q34 [Hard]::
+Data center control:
+{
+=Kontrol lingkungan # Physical security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q35 [Easy]::
+UPS digunakan untuk:
+{
+=Backup listrik # Power
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q36 [Medium]::
+Generator:
+{
+=Backup listrik panjang # Power
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q37 [Medium]::
+Environmental control:
+{
+=Kontrol suhu # Data center
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q38 [Hard]::
+Fire suppression:
+{
+=Proteksi kebakaran # Safety
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q39 [Easy]::
+Access control fisik:
+{
+=Batasi akses # Security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q40 [Medium]::
+Visitor log:
+{
+=Catatan tamu # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q41 [Medium]::
+Surveillance system:
+{
+=Monitoring area # CCTV
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q42 [Hard]::
+Preventive maintenance:
+{
+=Mencegah kerusakan # Proactive
+~Fix
+~Delete
+~Add
+}
+
+::CISA_D4V2_Q43 [Easy]::
+Corrective maintenance:
+{
+=Perbaiki error # Reactive
+~Prevent
+~Delete
+~Add
+}
+
+::CISA_D4V2_Q44 [Medium]::
+Service level management:
+{
+=Monitoring SLA # Quality
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q45 [Medium]::
+SLA:
+{
+=Perjanjian layanan # Agreement
+~Data
+~User
+~Server
+}
+
+::CISA_D4V2_Q46 [Hard]::
+BIA:
+{
+=Analisis dampak bisnis # Prioritas
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q47 [Easy]::
+Recovery strategy:
+{
+=Strategi pemulihan # DR
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q48 [Medium]::
+Alternate site:
+{
+=Lokasi cadangan # Backup
+~Primary
+~None
+~Delete
+}
+
+::CISA_D4V2_Q49 [Medium]::
+Backup frequency:
+{
+=Frekuensi backup # Protection
+~None
+~Random
+~Delete
+}
+
+::CISA_D4V2_Q50 [Hard]::
+Full backup:
+{
+=Backup seluruh data # Complete
+~Partial
+~None
+~Delete
+}
+
+::CISA_D4V2_Q51 [Easy]::
+Incremental backup:
+{
+=Backup perubahan # Efficient
+~Full
+~None
+~Delete
+}
+
+::CISA_D4V2_Q52 [Medium]::
+Differential backup:
+{
+=Backup sejak full terakhir # Hybrid
+~Full
+~None
+~Delete
+}
+
+::CISA_D4V2_Q53 [Medium]::
+Log retention:
+{
+=Penyimpanan log # Compliance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q54 [Hard]::
+Incident escalation:
+{
+=Eskalasi masalah # Priority
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q55 [Easy]::
+Root cause analysis:
+{
+=Analisis penyebab # Problem solving
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q56 [Medium]::
+Service request:
+{
+=Permintaan user # Support
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q57 [Medium]::
+Operations metric:
+{
+=Pengukuran performa # KPI
+~Data
+~User
+~Server
+}
+
+::CISA_D4V2_Q58 [Hard]::
+MTTR:
+{
+=Waktu perbaikan # Repair time
+~Error
+~Delete
+~Add
+}
+
+::CISA_D4V2_Q59 [Easy]::
+MTBF:
+{
+=Interval kerusakan # Reliability
+~Error
+~Delete
+~Add
+}
+
+::CISA_D4V2_Q60 [Medium]::
+Operations audit:
+{
+=Evaluasi operasi # Efficiency
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q61 [Medium]::
+Operational control:
+{
+=Kontrol operasi # Governance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q62 [Hard]::
+Service continuity:
+{
+=Kelangsungan layanan # Availability
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q63 [Easy]::
+Backup testing:
+{
+=Uji restore # Validasi
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q64 [Medium]::
+System resilience:
+{
+=Ketahanan sistem # Robustness
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q65 [Medium]::
+High availability:
+{
+=Minim downtime # Continuous
+~Offline
+~Error
+~Fail
+}
+
+::CISA_D4V2_Q66 [Hard]::
+Clustering:
+{
+=Server bersama # Redundancy
+~Single
+~None
+~Delete
+}
+
+::CISA_D4V2_Q67 [Easy]::
+Virtualization:
+{
+=Abstraksi hardware # Efficiency
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q68 [Medium]::
+Cloud computing:
+{
+=Layanan berbasis internet # Scalable
+~Local
+~Manual
+~None
+}
+
+::CISA_D4V2_Q69 [Medium]::
+IaaS:
+{
+=Infrastructure as a Service # Cloud model
+~PaaS
+~SaaS
+~None
+}
+
+::CISA_D4V2_Q70 [Hard]::
+PaaS:
+{
+=Platform as a Service # Dev platform
+~IaaS
+~SaaS
+~None
+}
+
+::CISA_D4V2_Q71 [Easy]::
+SaaS:
+{
+=Software as a Service # Application
+~IaaS
+~PaaS
+~None
+}
+
+::CISA_D4V2_Q72 [Medium]::
+Cloud risk:
+{
+=Risiko cloud # Security
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q73 [Medium]::
+Hybrid cloud:
+{
+=Gabungan cloud # Flexibility
+~Single
+~None
+~Delete
+}
+
+::CISA_D4V2_Q74 [Hard]::
+On-premise:
+{
+=Sistem lokal # Traditional
+~Cloud
+~Hybrid
+~None
+}
+
+::CISA_D4V2_Q75 [Easy]::
+IT outsourcing:
+{
+=Alih daya IT # Third-party
+~Internal
+~None
+~Delete
+}
+
+::CISA_D4V2_Q76 [Medium]::
+Vendor SLA:
+{
+=Perjanjian vendor # Contract
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q77 [Medium]::
+Third-party risk:
+{
+=Risiko vendor # External
+~Internal
+~None
+~Delete
+}
+
+::CISA_D4V2_Q78 [Hard]::
+Operations policy:
+{
+=Aturan operasi # Governance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q79 [Easy]::
+Operations procedure:
+{
+=Langkah operasi # SOP
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q80 [Medium]::
+Operations standard:
+{
+=Standar operasi # Benchmark
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q81 [Medium]::
+Audit objective operasi:
+{
+=Efisiensi & efektivitas # Assurance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q82 [Hard]::
+System documentation:
+{
+=Referensi sistem # Knowledge
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q83 [Easy]::
+Runbook:
+{
+=Panduan operasi # Procedure
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q84 [Medium]::
+Operations log:
+{
+=Catatan aktivitas # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q85 [Medium]::
+Audit trail:
+{
+=Jejak aktivitas # Accountability
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q86 [Hard]::
+Helpdesk:
+{
+=Support user # Assistance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q87 [Easy]::
+Knowledge base:
+{
+=Database solusi # Reference
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q88 [Medium]::
+Service improvement:
+{
+=Peningkatan layanan # Continuous
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q89 [Medium]::
+Continuous monitoring:
+{
+=Monitoring berkelanjutan # Real-time
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q90 [Hard]::
+Tujuan akhir IT operations adalah:
+{
+=Menjamin layanan stabil # Reliability
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q91 [Easy]::
+Incident log:
+{
+=Catatan insiden # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q92 [Medium]::
+Problem log:
+{
+=Catatan masalah # Root cause
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q93 [Medium]::
+Service availability:
+{
+=Ketersediaan layanan # Uptime
+~Offline
+~Error
+~Fail
+}
+
+::CISA_D4V2_Q94 [Hard]::
+Service reliability:
+{
+=Keandalan layanan # Consistency
+~Error
+~Fail
+~Crash
+}
+
+::CISA_D4V2_Q95 [Easy]::
+Downtime impact:
+{
+=Kerugian bisnis # Impact
+~Benefit
+~Gain
+~Profit
+}
+
+::CISA_D4V2_Q96 [Medium]::
+Recovery testing:
+{
+=Uji DRP # Validation
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q97 [Medium]::
+Service metric:
+{
+=Ukuran layanan # KPI
+~Data
+~User
+~Server
+}
+
+::CISA_D4V2_Q98 [Hard]::
+Capacity planning:
+{
+=Perencanaan kapasitas # Future demand
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q99 [Easy]::
+Performance tuning:
+{
+=Optimasi sistem # Speed
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D4V2_Q100 [Hard]::
+Tujuan akhir operasi IT:
+{
+=Stabilitas dan kontinuitas # Value
+~Delete
+~Add
+~Reduce
+}
