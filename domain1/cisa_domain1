@@ -1,0 +1,224 @@
+::CISA_D1V2_Q1 [Easy]::
+Auditor IT mengevaluasi kontrol sistem untuk mengurangi risiko. Apa tujuan utamanya?
+{
+=Menilai efektivitas kontrol # Audit fokus pada kontrol & risiko
+~Mengembangkan sistem
+~Mengelola data
+~Mendesain UI
+}
+
+::CISA_D1V2_Q2 [Medium]::
+Audit berbasis risiko berarti auditor harus:
+{
+=Fokus pada area risiko tinggi # Prioritas audit
+~Audit semua area sama
+~Ikuti permintaan user
+~Abaikan kontrol
+}
+
+::CISA_D1V2_Q3 [Easy]::
+Kontrol yang mencegah kesalahan adalah:
+{
+=Preventive control # Sebelum kejadian
+~Detective
+~Corrective
+~Compensating
+}
+
+::CISA_D1V2_Q4 [Medium]::
+Dokumen yang mendefinisikan ruang lingkup audit adalah:
+{
+=Audit charter # Scope & authority
+~Checklist
+~Working paper
+~Log
+}
+
+::CISA_D1V2_Q5 [Hard]::
+Tujuan sampling dalam audit adalah:
+{
+=Mewakili populasi # Efisiensi audit
+~Ambil semua data
+~Kurangi audit
+~Hapus kontrol
+}
+
+::CISA_D1V2_Q6 [Easy]::
+Kontrol detektif berfungsi untuk:
+{
+=Mendeteksi kesalahan # Setelah kejadian
+~Mencegah
+~Menghapus
+~Menghindari
+}
+
+::CISA_D1V2_Q7 [Medium]::
+Tahap pertama audit adalah:
+{
+=Perencanaan # Planning
+~Pelaporan
+~Evaluasi
+~Follow-up
+}
+
+::CISA_D1V2_Q8 [Medium]::
+Evidence yang baik harus:
+{
+=Relevan dan cukup # Valid
+~Murah
+~Cepat
+~Banyak
+}
+
+::CISA_D1V2_Q9 [Hard]::
+Bukti audit paling kuat adalah:
+{
+=Observasi langsung # Direct evidence
+~Wawancara
+~Dokumen
+~Email
+}
+
+::CISA_D1V2_Q10 [Easy]::
+Tujuan follow-up audit:
+{
+=Memastikan rekomendasi dijalankan # Closure
+~Menghapus audit
+~Menutup sistem
+~Ganti auditor
+}
+
+::CISA_D1V2_Q11 [Easy]::
+Working paper digunakan untuk:
+{
+=Dokumentasi audit # Evidence
+~Data user
+~Server
+~Program
+}
+
+::CISA_D1V2_Q12 [Medium]::
+Operational audit fokus pada:
+{
+=Efisiensi proses # Performance
+~Keuangan
+~Hukum
+~Fraud
+}
+
+::CISA_D1V2_Q13 [Hard]::
+Jika kontrol lemah maka:
+{
+=Risiko meningkat # Weak control
+~Risiko turun
+~Tetap
+~Hilang
+}
+
+::CISA_D1V2_Q14 [Easy]::
+Audit trail adalah:
+{
+=Jejak aktivitas # Log
+~Data
+~Program
+~Server
+}
+
+::CISA_D1V2_Q15 [Medium]::
+Segregation of duties berarti:
+{
+=Pemisahan tugas # Anti fraud
+~Gabung tugas
+~Hapus tugas
+~Tambah tugas
+}
+
+::CISA_D1V2_Q16 [Medium]::
+Residual risk adalah:
+{
+=Risiko sisa # Setelah kontrol
+~Risiko awal
+~Risiko nol
+~Risiko tinggi
+}
+
+::CISA_D1V2_Q17 [Hard]::
+Audit risk terdiri dari:
+{
+=Inherent + control + detection # Model audit risk
+~Risk saja
+~Control saja
+~Threat saja
+}
+
+::CISA_D1V2_Q18 [Easy]::
+Inherent risk adalah:
+{
+=Risiko alami # Tanpa kontrol
+~Setelah kontrol
+~Risiko nol
+~Risiko kecil
+}
+
+::CISA_D1V2_Q19 [Medium]::
+Control risk adalah:
+{
+=Risiko kontrol gagal # Control failure
+~User risk
+~Data risk
+~Server risk
+}
+
+::CISA_D1V2_Q20 [Medium]::
+Detection risk adalah:
+{
+=Risiko audit gagal deteksi # Auditor limitation
+~Control risk
+~User risk
+~Data risk
+}
+
+::CISA_D1V2_Q21 [Hard]::
+Independensi auditor penting untuk:
+{
+=Objektivitas # Hindari bias
+~Murah
+~Cepat
+~Banyak data
+}
+
+::CISA_D1V2_Q22 [Easy]::
+Compliance berarti:
+{
+=Kepatuhan # Aturan
+~Keamanan
+~Efisiensi
+~Performa
+}
+
+::CISA_D1V2_Q23 [Medium]::
+Risk assessment bertujuan:
+{
+=Identifikasi risiko # Basis audit
+~Hapus risiko
+~Tambah risiko
+~Kurangi risiko
+}
+
+::CISA_D1V2_Q24 [Medium]::
+Materiality adalah:
+{
+=Tingkat pentingnya temuan # Impact
+~Jumlah data
+~Ukuran file
+~User
+}
+
+::CISA_D1V2_Q25 [Hard]::
+Key risk indicator digunakan untuk:
+{
+=Monitoring risiko # Early warning
+~Hapus risiko
+~Tambah user
+~Hapus audit
+}
