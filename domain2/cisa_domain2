@@ -1,0 +1,629 @@
+::CISA_D2V2_Q31 [Medium]::
+Data owner bertanggung jawab atas:
+{
+=Kualitas dan klasifikasi data # Ownership
+~Server
+~Network
+~Program
+}
+
+::CISA_D2V2_Q32 [Medium]::
+Data custodian bertugas:
+{
+=Menjaga data secara operasional # Maintenance
+~Menghapus data
+~Mengurangi data
+~Menambah data
+}
+
+::CISA_D2V2_Q33 [Hard]::
+Information security governance bertujuan:
+{
+=Melindungi aset informasi # CIA
+~Menghapus data
+~Menambah data
+~Mengurangi data
+}
+
+::CISA_D2V2_Q34 [Easy]::
+Confidentiality berarti:
+{
+=Kerahasiaan data # Limited access
+~Integritas
+~Ketersediaan
+~Kecepatan
+}
+
+::CISA_D2V2_Q35 [Medium]::
+Integrity berarti:
+{
+=Keakuratan data # No unauthorized change
+~Keamanan
+~Kecepatan
+~Ketersediaan
+}
+
+::CISA_D2V2_Q36 [Medium]::
+Availability berarti:
+{
+=Data tersedia saat dibutuhkan # Access
+~Keamanan
+~Integritas
+~Kecepatan
+}
+
+::CISA_D2V2_Q37 [Hard]::
+IT governance responsibility berada pada:
+{
+=Board dan manajemen # Top level control
+~User
+~Admin
+~Programmer
+}
+
+::CISA_D2V2_Q38 [Easy]::
+IT governance audit bertujuan:
+{
+=Menilai efektivitas governance # Evaluation
+~Menghapus governance
+~Mengurangi governance
+~Menambah governance
+}
+
+::CISA_D2V2_Q39 [Medium]::
+IT compliance penting untuk:
+{
+=Hindari sanksi hukum # Legal compliance
+~Menghapus IT
+~Mengurangi IT
+~Menambah IT
+}
+
+::CISA_D2V2_Q40 [Medium]::
+IT strategy harus direview:
+{
+=Secara berkala # Continuous improvement
+~Sekali
+~Jarang
+~Tidak perlu
+}
+
+::CISA_D2V2_Q41 [Hard]::
+Policy enforcement berarti:
+{
+=Penerapan kebijakan # Implementation
+~Penghapusan
+~Pengurangan
+~Penambahan
+}
+
+::CISA_D2V2_Q42 [Easy]::
+Governance structure meliputi:
+{
+=Peran dan tanggung jawab # Structure
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q43 [Medium]::
+IT investment harus:
+{
+=Memberikan nilai # ROI
+~Mengurangi biaya saja
+~Menambah biaya
+~Menghapus biaya
+}
+
+::CISA_D2V2_Q44 [Medium]::
+Risk mitigation berarti:
+{
+=Mengurangi risiko # Treatment
+~Menghapus risiko
+~Menghindari risiko
+~Menambah risiko
+}
+
+::CISA_D2V2_Q45 [Hard]::
+Vendor risk adalah:
+{
+=Risiko dari pihak ketiga # External risk
+~Internal risk
+~User risk
+~Data risk
+}
+
+::CISA_D2V2_Q46 [Easy]::
+Contract management bertujuan:
+{
+=Mengelola vendor # Agreement
+~Menghapus vendor
+~Menambah vendor
+~Mengurangi vendor
+}
+
+::CISA_D2V2_Q47 [Medium]::
+Governance metrics digunakan untuk:
+{
+=Monitoring performa # KPI
+~Menghapus data
+~Menambah data
+~Mengurangi data
+}
+
+::CISA_D2V2_Q48 [Medium]::
+Risk optimization berarti:
+{
+=Menyeimbangkan risiko dan nilai # Balance
+~Menghapus risiko
+~Mengurangi risiko
+~Menambah risiko
+}
+
+::CISA_D2V2_Q49 [Hard]::
+IT management fokus pada:
+{
+=Operasional IT # Execution
+~Strategi
+~Audit
+~Compliance
+}
+
+::CISA_D2V2_Q50 [Easy]::
+IT governance fokus pada:
+{
+=Strategi dan kontrol # Direction
+~Operasional
+~Coding
+~Testing
+}
+
+::CISA_D2V2_Q51 [Medium]::
+IT service management bertujuan:
+{
+=Menyediakan layanan IT # Service delivery
+~Menghapus layanan
+~Mengurangi layanan
+~Menambah layanan
+}
+
+::CISA_D2V2_Q52 [Medium]::
+Data classification digunakan untuk:
+{
+=Mengelompokkan data # Sensitivity
+~Menghapus data
+~Menambah data
+~Mengurangi data
+}
+
+::CISA_D2V2_Q53 [Hard]::
+Sensitive data harus:
+{
+=Dilindungi # Security
+~Dihapus
+~Dibagikan
+~Diabaikan
+}
+
+::CISA_D2V2_Q54 [Easy]::
+Governance review dilakukan untuk:
+{
+=Evaluasi # Improvement
+~Penghapusan
+~Pengurangan
+~Penambahan
+}
+
+::CISA_D2V2_Q55 [Medium]::
+Risk monitoring bertujuan:
+{
+=Memantau risiko # Continuous
+~Menghapus risiko
+~Mengurangi risiko
+~Menambah risiko
+}
+
+::CISA_D2V2_Q56 [Medium]::
+Risk response meliputi:
+{
+=Accept, avoid, mitigate, transfer # Treatment
+~Delete
+~Create
+~Ignore
+}
+
+::CISA_D2V2_Q57 [Hard]::
+Governance maturity menunjukkan:
+{
+=Tingkat kematangan organisasi # Capability
+~Jumlah user
+~Jumlah data
+~Jumlah server
+}
+
+::CISA_D2V2_Q58 [Easy]::
+Governance framework membantu:
+{
+=Standarisasi # Consistency
+~Menghapus IT
+~Mengurangi IT
+~Menambah IT
+}
+
+::CISA_D2V2_Q59 [Medium]::
+Audit governance harus:
+{
+=Independen # Objectivity
+~Bias
+~Cepat
+~Murah
+}
+
+::CISA_D2V2_Q60 [Medium]::
+Governance memastikan:
+{
+=Kontrol dan arah # Direction
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q61 [Hard]::
+Strategic alignment berarti:
+{
+=IT mendukung bisnis # Core principle
+~Terpisah
+~Tidak penting
+~Independen
+}
+
+::CISA_D2V2_Q62 [Easy]::
+Governance outcome:
+{
+=Value delivery # Benefit
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q63 [Medium]::
+Governance responsibility:
+{
+=Manajemen puncak # Leadership
+~User
+~Admin
+~Programmer
+}
+
+::CISA_D2V2_Q64 [Medium]::
+Governance model:
+{
+=Struktur kontrol # Framework
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q65 [Hard]::
+Governance report berisi:
+{
+=Temuan dan rekomendasi # Output
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q66 [Easy]::
+Governance memastikan:
+{
+=Accountability # Tanggung jawab
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q67 [Medium]::
+Governance principle:
+{
+=Transparency # Keterbukaan
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q68 [Medium]::
+Governance control:
+{
+=Internal control # Mechanism
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q69 [Hard]::
+Governance risk:
+{
+=Risiko strategis # High impact
+~Low risk
+~No risk
+~User risk
+}
+
+::CISA_D2V2_Q70 [Easy]::
+Governance benefit:
+{
+=Value creation # Outcome
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q71 [Medium]::
+Governance review:
+{
+=Continuous improvement # Improvement
+~One-time
+~Rare
+~None
+}
+
+::CISA_D2V2_Q72 [Medium]::
+Governance metrics:
+{
+=Performance measurement # KPI
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q73 [Hard]::
+Governance maturity:
+{
+=Capability level # Leveling
+~User
+~Server
+~Data
+}
+
+::CISA_D2V2_Q74 [Easy]::
+Governance alignment:
+{
+=Business alignment # Sync
+~Separate
+~Independent
+~Unrelated
+}
+
+::CISA_D2V2_Q75 [Medium]::
+Governance ensures:
+{
+=Risk management # Control
+~Risk removal
+~Risk ignore
+~Risk increase
+}
+
+::CISA_D2V2_Q76 [Medium]::
+Governance structure:
+{
+=Roles & responsibilities # Structure
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q77 [Hard]::
+Governance effectiveness diukur dengan:
+{
+=KPI dan KGI # Measurement
+~User
+~Server
+~Data
+}
+
+::CISA_D2V2_Q78 [Easy]::
+Governance policy:
+{
+=Aturan formal # Formal rule
+~Opsional
+~Tidak perlu
+~Random
+}
+
+::CISA_D2V2_Q79 [Medium]::
+Governance audit:
+{
+=Evaluasi governance # Assessment
+~Penghapusan
+~Pengurangan
+~Penambahan
+}
+
+::CISA_D2V2_Q80 [Medium]::
+Governance objective:
+{
+=Value delivery # Goal
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q81 [Hard]::
+Governance risk:
+{
+=Risiko strategis # Impact tinggi
+~Low risk
+~No risk
+~User risk
+}
+
+::CISA_D2V2_Q82 [Easy]::
+Governance process:
+{
+=Pengambilan keputusan # Decision
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D2V2_Q83 [Medium]::
+Governance control:
+{
+=Internal control # Control
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q84 [Medium]::
+Governance review:
+{
+=Evaluasi # Improvement
+~Ignore
+~Delete
+~Add
+}
+
+::CISA_D2V2_Q85 [Hard]::
+Governance maturity:
+{
+=Level kemampuan # Growth
+~User
+~Server
+~Data
+}
+
+::CISA_D2V2_Q86 [Easy]::
+Governance framework:
+{
+=COBIT # Standard
+~Excel
+~Word
+~Paint
+}
+
+::CISA_D2V2_Q87 [Medium]::
+Governance compliance:
+{
+=Kepatuhan regulasi # Legal
+~Ignore
+~Delete
+~Add
+}
+
+::CISA_D2V2_Q88 [Medium]::
+Governance monitoring:
+{
+=Monitoring berkelanjutan # Ongoing
+~One-time
+~Rare
+~None
+}
+
+::CISA_D2V2_Q89 [Hard]::
+Governance alignment:
+{
+=Strategic alignment # Core
+~Unrelated
+~Independent
+~Separate
+}
+
+::CISA_D2V2_Q90 [Easy]::
+Governance outcome:
+{
+=Value creation # Benefit
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q91 [Medium]::
+Governance accountability:
+{
+=Responsibility # Ownership
+~Data
+~User
+~Server
+}
+
+::CISA_D2V2_Q92 [Medium]::
+Governance transparency:
+{
+=Open information # Visibility
+~Hidden
+~Secret
+~Closed
+}
+
+::CISA_D2V2_Q93 [Hard]::
+Governance assurance:
+{
+=Confidence # Trust
+~Doubt
+~Risk
+~Loss
+}
+
+::CISA_D2V2_Q94 [Easy]::
+Governance review:
+{
+=Evaluasi # Improvement
+~Delete
+~Ignore
+~Add
+}
+
+::CISA_D2V2_Q95 [Medium]::
+Governance control objective:
+{
+=Ensure effectiveness # Goal
+~Delete
+~Ignore
+~Add
+}
+
+::CISA_D2V2_Q96 [Medium]::
+IT governance outcome utama adalah:
+{
+=Value delivery # Business value
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D2V2_Q97 [Hard]::
+IT governance memastikan:
+{
+=Risk optimization # Balance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D2V2_Q98 [Easy]::
+Governance memastikan:
+{
+=Alignment # Business-IT
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D2V2_Q99 [Medium]::
+Governance principle penting:
+{
+=Accountability # Responsibility
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D2V2_Q100 [Hard]::
+Tujuan akhir IT governance adalah:
+{
+=Value delivery dan risk optimization # Ultimate goal
+~Menghapus IT
+~Mengurangi IT
+~Menambah risiko
+}
