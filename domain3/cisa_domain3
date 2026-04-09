@@ -1,0 +1,719 @@
+::CISA_D3V2_Q1 [Easy]::
+Tujuan utama SDLC adalah:
+{
+=Pengembangan sistem terstruktur # Proses sistematis
+~Menghapus sistem
+~Mengurangi data
+~Menambah user
+}
+
+::CISA_D3V2_Q2 [Medium]::
+Tahap awal SDLC adalah:
+{
+=Analisis kebutuhan # Requirement
+~Testing
+~Deployment
+~Maintenance
+}
+
+::CISA_D3V2_Q3 [Easy]::
+Business case digunakan untuk:
+{
+=Menilai kelayakan proyek # Cost-benefit
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D3V2_Q4 [Medium]::
+Feasibility study mencakup:
+{
+=Aspek teknis & ekonomi # Viability
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D3V2_Q5 [Hard]::
+Project governance bertujuan:
+{
+=Mengontrol proyek # Oversight
+~Menghapus proyek
+~Menambah proyek
+~Mengurangi proyek
+}
+
+::CISA_D3V2_Q6 [Easy]::
+Model SDLC klasik adalah:
+{
+=Waterfall # Sequential
+~Excel
+~Word
+~Paint
+}
+
+::CISA_D3V2_Q7 [Medium]::
+Agile digunakan untuk:
+{
+=Iteratif & fleksibel # Adaptif
+~Statis
+~Kaku
+~Tetap
+}
+
+::CISA_D3V2_Q8 [Medium]::
+Testing bertujuan:
+{
+=Menemukan bug # QA
+~Menghapus data
+~Menambah user
+~Mengurangi sistem
+}
+
+::CISA_D3V2_Q9 [Hard]::
+UAT dilakukan oleh:
+{
+=User akhir # Validasi
+~Developer
+~Admin
+~Auditor
+}
+
+::CISA_D3V2_Q10 [Easy]::
+Implementasi berarti:
+{
+=Deploy sistem # Go-live
+~Coding
+~Testing
+~Design
+}
+
+::CISA_D3V2_Q11 [Easy]::
+Prototype digunakan untuk:
+{
+=Validasi awal kebutuhan # Early feedback
+~Deployment
+~Backup
+~Maintenance
+}
+
+::CISA_D3V2_Q12 [Medium]::
+Requirement traceability berfungsi:
+{
+=Melacak kebutuhan # Tracking
+~Menghapus kebutuhan
+~Menambah kebutuhan
+~Mengurangi kebutuhan
+}
+
+::CISA_D3V2_Q13 [Medium]::
+Unit testing dilakukan oleh:
+{
+=Developer # Testing awal
+~User
+~Auditor
+~Manager
+}
+
+::CISA_D3V2_Q14 [Hard]::
+Integration testing bertujuan:
+{
+=Memastikan modul bekerja bersama # Integration
+~Unit test
+~Manual test
+~User test
+}
+
+::CISA_D3V2_Q15 [Easy]::
+System testing berarti:
+{
+=Test seluruh sistem # End-to-end
+~Unit test
+~Manual
+~User test
+}
+
+::CISA_D3V2_Q16 [Medium]::
+Regression testing bertujuan:
+{
+=Pastikan perubahan aman # Stability
+~Tambah bug
+~Hapus bug
+~Ignore bug
+}
+
+::CISA_D3V2_Q17 [Medium]::
+Parallel run adalah:
+{
+=Jalankan 2 sistem # Minim risiko
+~Hapus sistem lama
+~Tambah sistem
+~Kurangi sistem
+}
+
+::CISA_D3V2_Q18 [Hard]::
+Phased implementation:
+{
+=Implementasi bertahap # Gradual
+~Langsung
+~Random
+~Manual
+}
+
+::CISA_D3V2_Q19 [Easy]::
+Big bang implementation:
+{
+=Sekali langsung # High risk
+~Bertahap
+~Manual
+~Lama
+}
+
+::CISA_D3V2_Q20 [Medium]::
+Fallback plan:
+{
+=Rencana cadangan # Backup
+~Hapus sistem
+~Tambah sistem
+~Kurangi sistem
+}
+
+::CISA_D3V2_Q21 [Easy]::
+Requirement document harus:
+{
+=Jelas & lengkap # Clarity
+~Singkat
+~Acak
+~Tidak jelas
+}
+
+::CISA_D3V2_Q22 [Medium]::
+Stakeholder adalah:
+{
+=Pihak terkait proyek # Interest
+~Data
+~Server
+~Program
+}
+
+::CISA_D3V2_Q23 [Medium]::
+Scope creep adalah:
+{
+=Perubahan scope tak terkendali # Risk
+~Scope tetap
+~Scope kecil
+~Scope hilang
+}
+
+::CISA_D3V2_Q24 [Hard]::
+Critical path:
+{
+=Jalur terpanjang proyek # Durasi
+~Jalur pendek
+~Random
+~Optional
+}
+
+::CISA_D3V2_Q25 [Easy]::
+Milestone adalah:
+{
+=Titik penting proyek # Progress
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q26 [Medium]::
+Gantt chart digunakan untuk:
+{
+=Jadwal proyek # Timeline
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D3V2_Q27 [Medium]::
+Project risk:
+{
+=Risiko proyek # Uncertainty
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q28 [Hard]::
+Quality assurance:
+{
+=Menjamin kualitas proses # Prevent defect
+~Fix defect
+~Delete defect
+~Add defect
+}
+
+::CISA_D3V2_Q29 [Easy]::
+Quality control:
+{
+=Deteksi defect # Inspection
+~Prevent
+~Delete
+~Add
+}
+
+::CISA_D3V2_Q30 [Medium]::
+Code review:
+{
+=Evaluasi kode # Improve quality
+~Delete code
+~Add code
+~Reduce code
+}
+
+::CISA_D3V2_Q31 [Medium]::
+Static testing berarti:
+{
+=Review tanpa eksekusi # Analysis
+~Run test
+~Live test
+~User test
+}
+
+::CISA_D3V2_Q32 [Hard]::
+Dynamic testing:
+{
+=Test dengan eksekusi # Runtime
+~Static
+~Manual
+~Paper
+}
+
+::CISA_D3V2_Q33 [Easy]::
+Maintenance phase:
+{
+=Perbaikan sistem # After deploy
+~Coding
+~Testing
+~Design
+}
+
+::CISA_D3V2_Q34 [Medium]::
+Corrective maintenance:
+{
+=Perbaiki bug # Fix
+~Add feature
+~Upgrade
+~Delete
+}
+
+::CISA_D3V2_Q35 [Medium]::
+Adaptive maintenance:
+{
+=Penyesuaian sistem # Environment
+~Fix bug
+~Delete
+~Add user
+}
+
+::CISA_D3V2_Q36 [Hard]::
+Perfective maintenance:
+{
+=Peningkatan sistem # Enhancement
+~Fix bug
+~Delete
+~Add user
+}
+
+::CISA_D3V2_Q37 [Easy]::
+Requirement error menyebabkan:
+{
+=Kesalahan sistem # Root issue
+~Benar
+~Stabil
+~Cepat
+}
+
+::CISA_D3V2_Q38 [Medium]::
+User involvement penting:
+{
+=Kesesuaian kebutuhan # Alignment
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D3V2_Q39 [Medium]::
+Project manager:
+{
+=Mengelola proyek # Leadership
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D3V2_Q40 [Hard]::
+Project charter:
+{
+=Tujuan & scope proyek # Formal doc
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q41 [Easy]::
+Requirement change harus:
+{
+=Disetujui # Control
+~Langsung
+~Random
+~Tanpa approval
+}
+
+::CISA_D3V2_Q42 [Medium]::
+Scope baseline:
+{
+=Referensi scope # Control
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q43 [Medium]::
+Schedule baseline:
+{
+=Jadwal proyek # Timeline
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q44 [Hard]::
+Cost baseline:
+{
+=Anggaran proyek # Budget
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q45 [Easy]::
+Deliverable adalah:
+{
+=Hasil proyek # Output
+~Input
+~Process
+~Control
+}
+
+::CISA_D3V2_Q46 [Medium]::
+Lifecycle proyek:
+{
+=Fase proyek # Start-end
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q47 [Medium]::
+Risk register:
+{
+=Daftar risiko # Tracking
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q48 [Hard]::
+Issue log:
+{
+=Catatan masalah # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q49 [Easy]::
+Requirement validation:
+{
+=Pastikan kebutuhan benar # Accuracy
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q50 [Medium]::
+Requirement verification:
+{
+=Pastikan implementasi sesuai # Conformance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q51 [Medium]::
+Project success diukur:
+{
+=Scope, time, cost # Triple constraint
+~User
+~Server
+~Data
+}
+
+::CISA_D3V2_Q52 [Hard]::
+Critical success factor:
+{
+=Faktor utama sukses # Key driver
+~Minor
+~Optional
+~Random
+}
+
+::CISA_D3V2_Q53 [Easy]::
+SDLC control:
+{
+=Kontrol proses # Governance
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q54 [Medium]::
+Audit SDLC fokus:
+{
+=Kontrol & proses # Assurance
+~Coding
+~Testing
+~Deployment
+}
+
+::CISA_D3V2_Q55 [Medium]::
+Documentation penting:
+{
+=Maintain system # Knowledge
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q56 [Hard]::
+Change approval:
+{
+=Formal # Governance
+~Informal
+~Random
+~Optional
+}
+
+::CISA_D3V2_Q57 [Easy]::
+Requirement ambiguity:
+{
+=Kesalahan sistem # Misinterpret
+~Benar
+~Stabil
+~Cepat
+}
+
+::CISA_D3V2_Q58 [Medium]::
+Test coverage:
+{
+=Cakupan test # Completeness
+~Data
+~User
+~Server
+}
+
+::CISA_D3V2_Q59 [Medium]::
+Automation testing:
+{
+=Test otomatis # Efficiency
+~Manual
+~Static
+~Paper
+}
+
+::CISA_D3V2_Q60 [Hard]::
+Continuous integration:
+{
+=Integrasi code otomatis # Frequent merge
+~Manual
+~Rare
+~None
+}
+
+::CISA_D3V2_Q61 [Easy]::
+Continuous delivery:
+{
+=Deploy otomatis # Fast release
+~Manual
+~Slow
+~None
+}
+
+::CISA_D3V2_Q62 [Medium]::
+Rollback plan:
+{
+=Kembali ke versi lama # Recovery
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q63 [Medium]::
+Deployment plan:
+{
+=Rencana implementasi # Go-live
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q64 [Hard]::
+Cutover plan:
+{
+=Transisi sistem # Switch
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q65 [Easy]::
+Requirement completeness:
+{
+=Lengkap # Full scope
+~Partial
+~Missing
+~Random
+}
+
+::CISA_D3V2_Q66 [Medium]::
+Requirement consistency:
+{
+=Tidak konflik # Alignment
+~Conflict
+~Mismatch
+~Random
+}
+
+::CISA_D3V2_Q67 [Medium]::
+Requirement priority:
+{
+=Urutan penting # Critical
+~Random
+~Optional
+~None
+}
+
+::CISA_D3V2_Q68 [Hard]::
+Traceability matrix:
+{
+=Mapping kebutuhan # Tracking
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q69 [Easy]::
+System change harus:
+{
+=Didokumentasikan # Audit trail
+~Random
+~Optional
+~None
+}
+
+::CISA_D3V2_Q70 [Medium]::
+Test environment:
+{
+=Lingkungan testing # Non-prod
+~Production
+~Live
+~Real
+}
+
+::CISA_D3V2_Q71 [Medium]::
+Production environment:
+{
+=Lingkungan live # Real use
+~Test
+~Dev
+~Dummy
+}
+
+::CISA_D3V2_Q72 [Hard]::
+Segregation dev & prod:
+{
+=Mencegah error # Control
+~Merge
+~Delete
+~Ignore
+}
+
+::CISA_D3V2_Q73 [Easy]::
+Requirement approval:
+{
+=Persetujuan formal # Sign-off
+~Informal
+~Random
+~None
+}
+
+::CISA_D3V2_Q74 [Medium]::
+Project closure:
+{
+=Penutupan proyek # Final
+~Start
+~Middle
+~None
+}
+
+::CISA_D3V2_Q75 [Medium]::
+Lessons learned:
+{
+=Evaluasi proyek # Improvement
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q76 [Hard]::
+Knowledge transfer:
+{
+=Transfer pengetahuan # Continuity
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q77 [Easy]::
+User training:
+{
+=Pelatihan user # Adoption
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q78 [Medium]::
+User manual:
+{
+=Panduan user # Documentation
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q79 [Medium]::
+System support:
+{
+=Dukungan sistem # Maintenance
+~Delete
+~Add
+~Reduce
+}
+
+::CISA_D3V2_Q80 [Hard]::
+Tujuan akhir SDLC adalah:
+{
+=Sistem sesuai kebutuhan bisnis # Value delivery
+~Delete system
+~Reduce system
+~Increase risk
+}
